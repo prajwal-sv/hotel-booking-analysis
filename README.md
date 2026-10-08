@@ -245,8 +245,7 @@ If the cancellation rate fell by **5 percentage points** in each group (an assum
 Python · pandas · NumPy · Matplotlib · Seaborn · SciPy · statsmodels · Jupyter
 
 ---
-
 ## 👤 Author
-**Your Name** · [LinkedIn](www.linkedin.com/in/prajwal-wankhede-22388628a) · [GitHub](https://github.com/prajwal-sv)
+**Prajwal Wankhede** · [LinkedIn](https://www.linkedin.com/in/prajwal-wankhede-22388628a) · [GitHub](https://github.com/prajwal-sv)
 
 *Dataset: Antonio, N., de Almeida, A., and Nunes, L. (2019). Hotel booking demand datasets. Data in Brief, 22, 41-49.*
