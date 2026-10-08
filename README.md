@@ -247,6 +247,6 @@ Python · pandas · NumPy · Matplotlib · Seaborn · SciPy · statsmodels · Ju
 ---
 
 ## 👤 Author
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Your Name** · [LinkedIn](www.linkedin.com/in/prajwal-wankhede-22388628a) · [GitHub](https://github.com/prajwal-sv)
 
 *Dataset: Antonio, N., de Almeida, A., and Nunes, L. (2019). Hotel booking demand datasets. Data in Brief, 22, 41-49.*
