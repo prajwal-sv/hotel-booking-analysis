@@ -1,0 +1,6 @@
+Hypothesis,Test,Statistic,p-value,Effect,Decision
+H1: Hotels differ in cancellation rate,2 prop test,20.8,< 0.001,City 30.2% vs Resort 23.7%,Reject H0
+H2: Cancelled bookings have longer lead time,2 sample t test,52.2,< 0.001,105.8 vs 70.5 days,Reject H0
+H3: Online TA cancels more than other channels,2 prop test (one-sided),62.3,< 0.001,Online TA 35.5% vs Other 16.3%,Reject H0
+H4: Deposit type related to cancellation,Degree of association,2354.6,< 0.001,Non Refund 94.7% vs No Deposit 26.9%,Reject H0
+H5: Average ADR differs across seasons,One-way ANOVA,7436.2,< 0.001,Summer 138.1 vs Winter 76.5,Reject H0
