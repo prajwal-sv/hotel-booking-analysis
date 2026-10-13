@@ -73,8 +73,6 @@ hotel-booking-analysis/
 │   ├── 03_bivariate_analysis.ipynb        # bivariate / multivariate analysis
 │   ├── 04_hypothesis_testing.ipynb        # five hypothesis tests
 │   └── 05_insights_and_recommendations.ipynb
-├── src/
-│   └── 01_clean_data.py           # script version of the cleaning step
 ├── visuals/                       # all charts exported as PNG
 ├── reports/
 │   └── hypothesis_test_summary.csv
